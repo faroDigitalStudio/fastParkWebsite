@@ -1,5 +1,5 @@
 # fastParkWebsite
-## Website repo for Fast Park mobile application solution [fastpark.app](https://fastpark.app)
+## Website repo for Fast Park mobile application solution, @ [fastpark.app](https://fastpark.app)
 **Version: 0.1.1**
 
 #### If you would like something similar, get ahold of us
