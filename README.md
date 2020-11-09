@@ -37,9 +37,9 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 
 ### Planning
 - [ ] Launch on _11.19.20_
-- [ ] Link Google Analytics
+- [x] Link Google Analytics
 - [ ] Link subscription form to backend
-- [ ] Finish features section(s)
+- [x] Finish features section(s)
 - [ ] Replace placeholder renders
 - [ ] **Final Check**
 
