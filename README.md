@@ -32,8 +32,6 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 	- ![#F07D3B](https://placehold.it/15/f07d3b/000000?text=+) `#F07D3B`
 	- ![#c76933](https://placehold.it/15/c76933/000000?text=+) `#c76933`
 	- ![#2D4B1E](https://placehold.it/15/2d4b1e/000000?text=+) `#2D4B1E`
-* Horizontal Scroll bar featuring 'provider' logos
-* 'Request a Quote' functionality for lead generation
 
 ### Planning
 - [ ] Launch on _11.19.20_
