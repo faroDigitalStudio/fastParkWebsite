@@ -40,7 +40,7 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 - [x] Link Google Analytics
 - [ ] Link subscription form to backend
 - [x] Finish features section(s)
-- [ ] Replace placeholder renders
+- [/] Replace placeholder renders
 - [ ] **Final Check**
 
 ### Updates
