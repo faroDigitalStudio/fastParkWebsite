@@ -1,6 +1,6 @@
 # fastParkWebsite
 ## Website repo for Fast Park mobile application solution, @ [fastpark.app](https://fastpark.app)
-**Version: 0.1.1**
+**Version: 1.0.0**
 
 #### If you would like something similar, get ahold of us
 #### If you are a developer, feel free to use this as a template
@@ -21,27 +21,37 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 #### Layout
 * Landing
 * Features
-* Download / Subscribe
-* Contact
+* Screenshots
+* Subscribe
 
 #### Features
 * Linked NavBar
-* Link to download app / subscribe to newsletter
+* From to subscribe to updates / newsletter
 * Social Media icons with future linkage to appropriate URLs
 * Fast Park color palette theme throughout site:
 	- ![#F07D3B](https://placehold.it/15/f07d3b/000000?text=+) `#F07D3B`
 	- ![#c76933](https://placehold.it/15/c76933/000000?text=+) `#c76933`
 	- ![#2D4B1E](https://placehold.it/15/2d4b1e/000000?text=+) `#2D4B1E`
+* Static images of UI/UX layout of app
 
 ### Planning
-- [ ] Launch on _11.19.20_
+- [x] Launch on _11.19.20_
 - [x] Link Google Analytics
-- [ ] Link subscription form to backend
+- [x] Link subscription form to backend
 - [x] Finish features section(s)
-- [/] Replace placeholder renders
-- [ ] **Final Check**
+- [x] Replace placeholder renders
+- [x] **Final Check**
 
 ### Updates
+#### v1.0.0
+* Linked subscription form to formspree
+* Uploaded static images of app ui/ux
+* Trimmed fat
+* Removed php
+* Updated 'features'
+* Updated 'benefits'
+**MILESTONE: *Official Launch***
+
 #### v0.1.1
 * Overhaul customization for fastPark
 * Trimmed fat
