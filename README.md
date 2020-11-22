@@ -50,7 +50,7 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 * Removed php
 * Updated 'features'
 * Updated 'benefits'
-**MILESTONE: *Official Launch***
+* **MILESTONE: *Official Launch***
 
 #### v0.1.1
 * Overhaul customization for fastPark
@@ -63,5 +63,5 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 * Generated SSL
 
 #### v0.1.0
-**MILESTONE: *Initial Commit***
+* **MILESTONE: *Initial Commit***
 
